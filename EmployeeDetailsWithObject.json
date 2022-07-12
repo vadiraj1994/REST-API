@@ -1,0 +1,11 @@
+{
+"name":"Vadiraj",
+"empId":"ty123",
+"designation":"Senior QA",
+"phno":[12345,34567],
+"spouse":{
+          "sName":"abc",
+          "sPhone":1234,
+          "sCompany":"Infosys"
+         }
+}
